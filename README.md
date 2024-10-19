@@ -10,4 +10,4 @@ Playground notebook: https://colab.research.google.com/drive/1AX1Od49mHyPk7zT1Dk
 
 Real-time protection: http://20.79.178.230:8081
 
-Password: splxai-rail
+Password: `splxai-rail`
