@@ -8,6 +8,6 @@ Playground notebook: https://colab.research.google.com/drive/1AX1Od49mHyPk7zT1Dk
 
 ## Red Teaming / Avoiding real-time off-topic fitlers 
 
-Real-time protection: http://20.79.178.230:8081
+Real-time protection: http://52.59.136.143
 
 Password: `splxai-rail`
