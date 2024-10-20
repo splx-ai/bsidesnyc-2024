@@ -6,7 +6,7 @@ Chatbot website: http://20.79.178.230:8081/
 
 Playground notebook: https://colab.research.google.com/drive/1AX1Od49mHyPk7zT1Dki9Lxj4A-xYMwk9?usp=sharing
 
-## Red Teaming / Avoiding real-time off-topic fitlers (available during BSidesNYC Workshop)
+## Red Teaming / Avoiding real-time off-topic filters (available during BSidesNYC Workshop)
 
 Real-time protection: http://52.59.136.143
 
