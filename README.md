@@ -2,7 +2,7 @@
 
 ## Red Teaming / System Prompt Hardening
 
-Chatbot website: http://20.79.178.230:8081/
+Chatbot website: https://nyc-bsides-streamlit-a4d2cgephdd5eydh.eastus-01.azurewebsites.net/
 
 Playground notebook: https://colab.research.google.com/drive/1AX1Od49mHyPk7zT1Dki9Lxj4A-xYMwk9?usp=sharing
 
