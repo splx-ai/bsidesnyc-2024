@@ -10,4 +10,4 @@ Playground notebook: https://colab.research.google.com/drive/1AX1Od49mHyPk7zT1Dk
 
 Real-time protection: http://52.59.136.143
 
-Password: `GuardSplxAI1234`
+Password: `bsidesdemo`
